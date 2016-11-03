@@ -1,4 +1,4 @@
-The project is a registration system for people. It is developed using PHP and MYSQL. The database can befound under the database directory. 
+The project is a registration system for people. It is developed using PHP and MYSQL. The database can be found under the database directory. 
 The table structure
 /////////////////////////////////
 
